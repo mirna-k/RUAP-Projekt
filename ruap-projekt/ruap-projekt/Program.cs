@@ -6,7 +6,7 @@ namespace ruap_projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Mirne 1234536");
+            Console.WriteLine("Hello World!");
         }
     }
 }
